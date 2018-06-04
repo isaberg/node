@@ -1,0 +1,19 @@
+var isaberg = {
+    "name": "Isaiah Berg",
+    "website": "https://isaberg.github.io/",
+    "linkedin": "https://www.linkedin.com/in/isaiah-berg/",
+    "github": "isaberg",
+    "email": "isaiah.j.berg@gmail.com",
+    "resume": "https://isaberg.github.io/assets/resume.pdf",
+    "proficient-technologies": [
+        "html",
+        "css",
+        "javascript",
+        "node",
+    ],
+    "other-skills": [
+        "teaching",
+        "writing",
+        "bicycling"
+    ]
+}
